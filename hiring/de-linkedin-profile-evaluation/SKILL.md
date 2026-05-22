@@ -1,5 +1,5 @@
 ---
-name: linkedin-profile-evaluation
+name: de-linkedin-profile-evaluation
 description: "Evaluate a candidate's LinkedIn profile to decide whether they are worth pursuing for a design engineer role. Use when the input is a pasted LinkedIn profile and the role is design engineer — not a portfolio, screen notes, or exercise notes. Produces a simple fit verdict backed by a signal check and a responsibilities match."
 ---
 
