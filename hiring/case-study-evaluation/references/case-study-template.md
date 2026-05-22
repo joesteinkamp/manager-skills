@@ -6,7 +6,7 @@ Use this as the default response structure for `case-study-evaluation`.
 
 - Candidate:
 - Role: (product designer, UX designer, visual designer, design lead, etc.)
-- Target level: (junior / mid / senior / staff / principal)
+- Target level: (E / P / I / A / S)
 - Team context: (B2B/B2C, 0→1/growth/scale, industry)
 - Must-have skills:
 - Interviewer(s):
@@ -88,7 +88,7 @@ Score only competencies the exercise was designed to assess. Mark others as "Not
 
 ## Level Calibration
 
-- **Demonstrated level:** (junior / mid / senior / staff — based on exercise evidence)
+- **Demonstrated level:** (E / P / I / A / S — based on exercise evidence)
 - **Target level:** (from evaluation context)
 - **Calibration:** (below / at / above target level)
 - **Evidence for calibration:**
@@ -156,9 +156,9 @@ Below is a concrete example of a completed competency score and exercise signal.
 
 | Competency | Score (1-4) | Evidence |
 |------------|-------------|----------|
-| Problem Framing | 3 | Candidate spent first 8 minutes asking clarifying questions about user segments and business constraints. Identified that the prompt assumed a single user type and proposed segmenting the approach. Did not challenge the core metric (conversion) which a senior might reframe. |
-| Process & Rigor | 4 | Sketched 3 distinct approaches on the whiteboard, articulated trade-offs for each ("this optimizes for speed but sacrifices discoverability"), and chose approach 2 with clear rationale. When interviewer pushed back on a navigation choice, candidate drew a quick flow diagram to test the concern. |
-| Communication | 3 | Structured the walkthrough clearly: problem → approaches → chosen direction → rationale. Occasionally over-explained decisions that were straightforward. Good use of the whiteboard to make thinking visible. |
+| Product & Strategic Impact | 3 | Candidate spent first 8 minutes asking clarifying questions about user segments and business constraints. Identified that the prompt assumed a single user type and proposed segmenting the approach. Did not challenge the core metric (conversion) which an Integrator might reframe. |
+| Customer-Centric Research & Insight | 4 | Sketched 3 distinct approaches on the whiteboard, articulated trade-offs for each ("this optimizes for speed but sacrifices discoverability"), and chose approach 2 with clear rationale. When interviewer pushed back on a navigation choice, candidate drew a quick flow diagram to test the concern. |
+| Ownership, Leadership & Collaboration | 3 | Structured the walkthrough clearly: problem → approaches → chosen direction → rationale. Occasionally over-explained decisions that were straightforward. Good use of the whiteboard to make thinking visible. |
 
 ### Exercise Signal Example
 

@@ -1,128 +1,142 @@
 # Design Competencies
 
-Shared competency model for all hiring evaluation skills. Each competency defines what to assess, what excellence looks like, and how expectations shift by seniority level.
+Shared competency model for all hiring evaluation skills, aligned to the AlphaSense Design Career Mapper. Each competency defines what to assess, what excellence looks like, and how expectations shift by career stage.
 
-These competencies are the foundation for rubrics across portfolio reviews, hiring manager screens, and case study evaluations. Individual skills may weight competencies differently or assess a subset — but the definitions and level expectations are consistent.
+These competencies are the foundation for rubrics across portfolio reviews, hiring manager screens, and case study evaluations. Individual skills may weight competencies differently or assess a subset — but the definitions and level expectations are consistent with the Career Mapper rubric.
 
 ## Competency Definitions
 
-### 1. Problem Framing
+### 1. Product & Strategic Impact
 
-The ability to articulate the user problem and business context before jumping to solutions.
+Designers translate company strategy into meaningful product direction and measurable business outcomes. They demonstrate deep understanding of customer workflows and unmet needs, business model and market dynamics, and the competitive and technological landscape (including AI capabilities). They apply strategy to UX decisions, shape roadmaps, and identify opportunities for differentiation.
 
-What to assess:
-- Does the candidate articulate the user problem before showing or describing solutions?
-- Is there business context (metrics, goals, constraints, stakeholder needs)?
-- Does the framing distinguish between symptoms and root causes?
-- Are assumptions identified and challenged?
-
-### 2. Process & Rigor
-
-The ability to apply a structured, evidence-based design process appropriate to the context.
+In an AI-native environment, this includes identifying where AI meaningfully augments or automates workflows, understanding the economic and operational tradeoffs of AI features, and connecting AI capability to defensible product value.
 
 What to assess:
-- Is there evidence of research, exploration, and iteration?
-- Are multiple directions explored before converging?
-- Is there evidence of testing or validation?
-- Is the process appropriate for the project scope and timeline?
-
-### 3. Craft Quality
-
-The ability to produce well-executed visual and interaction design at the expected level.
-
-What to assess:
-- Is the visual design at the expected level for the seniority?
-- Are interactions well-considered (not just static outputs)?
-- Is there attention to typography, spacing, color, and hierarchy?
-- Are design system patterns used consistently?
-
-### 4. Systems Thinking
-
-The ability to consider the broader system — edge cases, states, scale, and implications.
-
-What to assess:
-- Are edge cases and error states considered?
-- Is responsive behavior or cross-platform impact addressed?
-- Does the candidate think about design system implications?
-- Are flows complete (not just key screens or moments)?
-
-### 5. Outcomes & Impact
-
-The ability to connect design work to measurable results and articulate the candidate's contribution.
-
-What to assess:
-- Are results shared (metrics, user feedback, adoption data)?
+- Does the candidate articulate the user problem and business context before showing solutions?
+- Is design work connected to roadmap, metrics, or strategic bets?
+- Are results shared (metrics, adoption, user feedback) and tied back to framing?
 - Is the candidate's specific contribution clear vs. team effort?
-- Are outcomes connected back to the problem framing?
-- Is there evidence the design actually shipped or was implemented?
+- Does the candidate show awareness of where AI augments or automates the workflow?
 
-### 6. Communication
+### 2. Craft & Experience Quality
 
-The ability to structure and present design thinking clearly and persuasively.
+Designers create structured, intuitive, and visually compelling experiences rooted in customer mental models. This includes interaction design grounded in workflow clarity, architectural thinking and information hierarchy, exceptional visual craftsmanship (color, typography, layout, motion), and clear communication through prototypes and storytelling. Designers use and contribute to shared systems to ensure consistency.
 
-What to assess:
-- Is the narrative well-structured and easy to follow?
-- Is the communication concise (not padded)?
-- Are visuals, artifacts, or examples used effectively to support the story?
-- Does the candidate show ability to frame and present work for the audience?
-
-### 7. Collaboration
-
-The ability to work effectively with cross-functional partners and influence outcomes through partnership.
+In an AI-native environment, this includes designing for probabilistic systems and uncertainty, creating trust signals (confidence, traceability, override, auditability), and integrating generated outputs into coherent human workflows.
 
 What to assess:
-- Is there evidence of working with cross-functional partners?
-- Does the candidate describe how they influenced decisions?
-- Is there evidence of giving or receiving design feedback?
-- Are stakeholder dynamics addressed?
+- Is the visual and interaction design at the expected level for the seniority?
+- Is there attention to typography, spacing, color, hierarchy, and motion?
+- Are design system patterns used and contributed to consistently?
+- Are prototypes or artifacts used effectively to communicate intent?
+- For AI surfaces: are uncertainty, trust, and override patterns considered?
 
-## Level Expectations
+### 3. Customer-Centric Research & Insight
 
-How each competency manifests differently by seniority. Use this to calibrate scores — a "3" for a junior designer looks different from a "3" for a staff designer.
+Designers are customer experts whose decisions are grounded in qualitative and quantitative evidence. They define and scope the right research questions, partner cross-functionally on generative and evaluative research, synthesize insights into product direction, and monitor execution quality using analytics and feedback.
 
-### Junior (IC1-2)
+In an AI-native environment, this includes evaluating AI-generated outputs through user testing and friction logging, using AI to accelerate synthesis while preserving rigor, and understanding the behavioral implications of automation.
 
-- **Problem Framing:** States the user problem clearly. Articulating it with supporting evidence is a strength signal.
-- **Process & Rigor:** Shows some process beyond "I designed this." Exploration and iteration with guidance is a strength signal.
-- **Craft Quality:** Clean, competent execution. Surprising polish at this level is a strength signal.
-- **Systems Thinking:** Shows awareness of states beyond the happy path. 2-3 states per key screen is solid.
-- **Outcomes & Impact:** Any metric or outcome is impressive at this level. "This shipped" with context is sufficient.
-- **Communication:** Logical structure, easy to follow. Engaging narrative is a strength signal.
-- **Collaboration:** Mentions team members and roles. Showing learning from collaboration is a strength signal.
+What to assess:
+- Is there evidence of research, exploration, and iteration appropriate to scope?
+- Are multiple directions explored before converging?
+- Is there evidence of testing, validation, or post-launch monitoring?
+- Are assumptions identified, challenged, and grounded in evidence?
+- Are research methods adapted to constraints (timeline, access, fidelity)?
 
-### Mid (IC3)
+### 4. Systems & Platform Thinking
 
-- **Problem Framing:** Includes business context and user evidence. Separating user and business problems is a strength signal.
-- **Process & Rigor:** Research → explore → test → iterate cycle is visible. Multiple research methods with clear decision points is a strength signal.
-- **Craft Quality:** Consistent visual system applied across screens. Systematic craft with few errors is a strength signal.
-- **Systems Thinking:** Error and empty states documented for most flows. Documented edge cases and responsive behavior is a strength signal.
-- **Outcomes & Impact:** Before/after comparison with some measurement. Clear metrics tied to goals with post-launch learnings is a strength signal.
-- **Communication:** Good balance of text and visuals. Structured with clear sections and good pacing is a strength signal.
-- **Collaboration:** Explains how design decisions involved others. Describing specific cross-functional dynamics is a strength signal.
+Designers understand the broader ecosystem of products, services, data, and touchpoints, and design experiences that feel cohesive and scalable. They map journeys across workflows and lifecycle stages, define taxonomy and data structures aligned to mental models, remove design and technical debt, and contribute to and evolve the design system.
 
-### Senior (IC4)
+In an AI-native platform, this includes designing reusable AI interaction patterns, mapping content and structured data into generative workflows, and defining boundaries between automation and human intervention.
 
-- **Problem Framing:** Shows how the problem connects to broader product strategy. Reframing the problem from what was initially given is a strength signal.
-- **Process & Rigor:** Process adapts to constraints (timeline, access, fidelity). Self-directed process that adapts methods to context is a strength signal.
-- **Craft Quality:** Multiple states shown (empty, error, loading). Craft serves the user goal, not just aesthetics.
-- **Systems Thinking:** Responsive breakpoints addressed. Considers system-level implications (design system, platform, accessibility) is a strength signal.
-- **Outcomes & Impact:** Metrics shown and contextualized. Quantified impact + qualitative evidence + learnings is a strength signal.
-- **Communication:** Concise — no filler. Tailors depth to audience and knows what to skip.
-- **Collaboration:** Shows stakeholder management. Led alignment across functions and resolved conflicts is a strength signal.
+What to assess:
+- Are edge cases, error states, empty states, and loading states considered?
+- Is responsive behavior or cross-platform impact addressed?
+- Does the candidate think about design system and platform implications?
+- Are flows complete across the journey, not just key screens?
+- For AI: are human-in-the-loop boundaries and reusable patterns considered?
 
-### Staff+ (IC5+)
+### 5. AI Fluency & Automation Leverage
 
-- **Problem Framing:** Connects to org-level goals and cross-team impact. Identifies strategic opportunity beyond the immediate brief.
-- **Process & Rigor:** Process shows strategic prioritization. Defines process for team and mentors others through it.
-- **Craft Quality:** Craft is a tool for communication, not the focus. Craft decisions reflect strategic trade-offs.
-- **Systems Thinking:** Cross-team system impact considered. Designs at the system level — components, patterns, governance.
-- **Outcomes & Impact:** Cross-team outcomes documented. Org-level impact, influenced product strategy.
-- **Communication:** Could be a conference talk — strategic and compelling.
-- **Collaboration:** Cross-team influence documented. Influenced product/eng/design org processes.
+Designers effectively and responsibly integrate AI into their workflows and product experiences. They understand the SAE responsibility spectrum (L0–L4), demonstrate increasing maturity across the E–P–I–A–S stages, use AI to reduce cycle time, cognitive load, and rework, and apply judgment to determine where AI assists, integrates, or automates.
+
+As maturity increases, designers build reusable prompts, patterns, and evaluation frameworks; define integration and QA standards for AI-generated outputs; and establish guardrails and governance for responsible AI use.
+
+Important principle: depth of maturity at a given level matters more than racing to higher automation.
+
+What to assess:
+- Does the candidate show evidence of AI in their workflow (research, exploration, production)?
+- Are prompts, evaluation habits, or QA patterns repeatable rather than ad hoc?
+- Does the candidate articulate where AI helps vs. where human judgment is required?
+- For senior+ levels: are there reusable workflows, frameworks, or standards others can adopt?
+
+### 6. Ownership, Leadership & Collaboration
+
+Designers demonstrate an "own the outcome" mindset and elevate the effectiveness of the team and organization. They shepherd projects to successful execution, tie design work to measurable business impact, mentor and up-level peers, communicate transparently to build alignment, and foster psychological safety and strong cross-functional partnerships.
+
+In an AI-native organization, this includes modeling responsible AI usage, teaching others effective prompting and evaluation habits, and raising the quality bar in both human and AI-assisted work.
+
+What to assess:
+- Is there evidence of working with and influencing cross-functional partners?
+- Does the candidate describe how they shaped decisions or resolved conflicts?
+- Is the narrative well-structured, concise, and tailored to the audience?
+- Is there evidence of giving feedback, mentoring, or elevating others?
+- Are stakeholder dynamics and trade-offs addressed honestly?
+
+## Level Expectations (E–P–I–A–S)
+
+How each competency manifests across the Career Mapper progression. Use this to calibrate scores — a "3" at Explorer looks different from a "3" at Architect.
+
+### E — Explorer (early career)
+
+- **Product & Strategic Impact:** Understands roadmap and business context. States the user problem clearly.
+- **Craft & Experience Quality:** Applies core interaction and visual fundamentals with clean, competent execution.
+- **Customer-Centric Research & Insight:** Participates in research and applies findings with guidance.
+- **Systems & Platform Thinking:** Designs individual features with awareness of adjacent flows; shows awareness of states beyond the happy path.
+- **AI Fluency:** Experiments with AI tools (L1–L2) with heavy manual correction.
+- **Ownership & Collaboration:** Owns tasks and contributes to discussions. Mentions team members and roles.
+
+### P — Practitioner (mid)
+
+- **Product & Strategic Impact:** Connects design work to team metrics. Includes business context and user evidence.
+- **Craft & Experience Quality:** Delivers consistent, high-quality UX with clear rationale. Consistent visual system across screens.
+- **Customer-Centric Research & Insight:** Independently scopes and synthesizes research. Research → explore → test → iterate cycle is visible.
+- **Systems & Platform Thinking:** Designs cross-feature journeys. Error and empty states documented for most flows.
+- **AI Fluency:** Uses AI consistently with repeatable prompts and QA habits.
+- **Ownership & Collaboration:** Owns projects and influences partners. Explains how decisions involved others.
+
+### I — Integrator (senior)
+
+- **Product & Strategic Impact:** Shapes roadmap decisions within a domain. Reframes the problem from what was initially given.
+- **Craft & Experience Quality:** Integrates design across complex flows and surfaces. Craft serves the user goal, not just aesthetics.
+- **Customer-Centric Research & Insight:** Embeds research continuously into workflow. Process adapts to constraints.
+- **Systems & Platform Thinking:** Integrates experiences across product surfaces. Considers system-level implications (design system, platform, accessibility).
+- **AI Fluency:** Integrates AI into workflows with clear responsibility boundaries.
+- **Ownership & Collaboration:** Leads initiatives and mentors peers. Manages stakeholders; concise and tailored communication.
+
+### A — Architect (staff)
+
+- **Product & Strategic Impact:** Defines multi-team product bets and strategic direction. Identifies strategic opportunity beyond the brief.
+- **Craft & Experience Quality:** Builds reusable systems and patterns others adopt. Craft decisions reflect strategic trade-offs.
+- **Customer-Centric Research & Insight:** Defines research frameworks and quality standards.
+- **Systems & Platform Thinking:** Defines scalable frameworks, taxonomy, and platform patterns. Cross-team system impact considered.
+- **AI Fluency:** Builds reusable AI workflows, prompts, and evaluation systems.
+- **Ownership & Collaboration:** Leads strategic programs and elevates team capability. Cross-team influence documented.
+
+### S — Steward (principal+)
+
+- **Product & Strategic Impact:** Influences company-level strategy and long-term portfolio.
+- **Craft & Experience Quality:** Defines org-wide standards for experience quality.
+- **Customer-Centric Research & Insight:** Establishes org-level research rigor and customer bar.
+- **Systems & Platform Thinking:** Shapes long-term platform architecture and cohesion.
+- **AI Fluency:** Sets standards, governance, and quality bar for AI usage across the org.
+- **Ownership & Collaboration:** Defines cultural norms and leadership standards.
 
 ## Scoring Scale
 
-Use this scale across all hiring evaluation skills.
+Use this scale across all hiring evaluation skills. Calibrate against the candidate's target career stage (E/P/I/A/S).
 
 | Score | Label | Definition |
 |-------|-------|------------|
@@ -143,3 +157,4 @@ Apply these checks across all hiring evaluations — portfolios, screens, and ca
 - **Quantity bias:** Depth beats volume. 3 strong examples beat 8 weak ones.
 - **Articulation bias:** Verbal fluency is not design skill. A candidate who struggles to narrate under pressure may still produce excellent work. Evaluate the thinking, not just the delivery.
 - **Confidence bias:** Confident delivery is not the same as correct thinking. Probe substance behind assured statements.
+- **AI maturity bias:** Heavy AI tool usage is not the same as AI fluency. Depth of judgment at a given level matters more than racing toward higher automation.

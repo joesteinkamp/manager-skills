@@ -17,7 +17,7 @@ Output is formatted for use in debrief documents, ATS scorecards, or structured 
 
 1. Establish the evaluation context.
    - Identify the role: product designer, UX designer, visual designer, design lead, etc.
-   - Identify the target level: junior (IC1-2), mid (IC3), senior (IC4), staff (IC5), principal (IC6+).
+   - Identify the target level: E (Explorer) / P (Practitioner) / I (Integrator) / A (Architect) / S (Steward).
    - Identify the exercise format: take-home presentation, live whiteboard, live Figma, design critique, system design.
    - Capture the exercise prompt and constraints (time limit, scope, what was provided to the candidate).
    - Note what the exercise was designed to assess (the intended competencies).
@@ -32,13 +32,13 @@ Output is formatted for use in debrief documents, ATS scorecards, or structured 
 
 3. Score against competencies.
    - For each relevant competency, score 1-4 using the scale in `../references/design-competencies.md`.
-   - Not all 7 competencies apply to every exercise format. Score only those the exercise was designed to assess.
+   - Not all 6 competencies apply to every exercise format. Score only those the exercise was designed to assess.
    - Weight competencies based on what the exercise format can reasonably reveal:
-     - **Take-home presentation:** Problem Framing, Process & Rigor, Craft Quality, Communication (primary). Systems Thinking, Outcomes & Impact (secondary, if addressed).
-     - **Live whiteboard:** Problem Framing, Process & Rigor, Communication, Collaboration (primary). Systems Thinking (secondary).
-     - **Live Figma:** Craft Quality, Systems Thinking, Process & Rigor (primary). Communication (secondary).
-     - **Design critique:** Communication, Collaboration, Systems Thinking (primary). Problem Framing (secondary).
-     - **System design:** Systems Thinking, Problem Framing, Process & Rigor (primary). Communication (secondary).
+     - **Take-home presentation:** Product & Strategic Impact, Customer-Centric Research & Insight, Craft & Experience Quality, Ownership, Leadership & Collaboration (primary). Systems & Platform Thinking, AI Fluency & Automation Leverage (secondary, if addressed).
+     - **Live whiteboard:** Product & Strategic Impact, Customer-Centric Research & Insight, Ownership, Leadership & Collaboration (primary). Systems & Platform Thinking (secondary).
+     - **Live Figma:** Craft & Experience Quality, Systems & Platform Thinking, Customer-Centric Research & Insight (primary). Ownership, Leadership & Collaboration, AI Fluency & Automation Leverage (secondary).
+     - **Design critique:** Ownership, Leadership & Collaboration, Systems & Platform Thinking (primary). Product & Strategic Impact (secondary).
+     - **System design:** Systems & Platform Thinking, Product & Strategic Impact, Customer-Centric Research & Insight (primary). Ownership, Leadership & Collaboration, AI Fluency & Automation Leverage (secondary).
    - Cite specific observed behaviors, candidate statements, or artifacts for each score.
    - Use level expectations from `../references/design-competencies.md` to calibrate.
 

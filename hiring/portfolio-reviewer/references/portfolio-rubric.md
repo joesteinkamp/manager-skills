@@ -1,122 +1,118 @@
 # Portfolio Evaluation Rubric
 
-Default 7-dimension rubric for evaluating design candidate portfolios. Use this rubric unless the user provides a custom one.
+Default 6-competency rubric for evaluating design candidate portfolios, aligned to the AlphaSense Design Career Mapper. Use this rubric unless the user provides a custom one.
+
+See `../../references/design-competencies.md` for full competency definitions and level expectations.
 
 ## Scoring Scale
 
 | Score | Label | Definition |
 |-------|-------|------------|
-| 1 | Not demonstrated | Dimension is absent or fundamentally weak. Significant gap. |
-| 2 | Below expectations | Dimension is present but shallow, inconsistent, or missing key elements for the target level. |
-| 3 | Meets expectations | Dimension is solid and consistent with the target level. Minor gaps that don't raise concern. |
-| 4 | Exceeds expectations | Dimension is a clear strength. Work demonstrates depth, sophistication, or maturity above the target level. |
+| 1 | Not demonstrated | Competency is absent or fundamentally weak. Significant gap. |
+| 2 | Below expectations | Competency is present but shallow, inconsistent, or missing key elements for the target level. |
+| 3 | Meets expectations | Competency is solid and consistent with the target level. Minor gaps that don't raise concern. |
+| 4 | Exceeds expectations | Competency is a clear strength. Work demonstrates depth, sophistication, or maturity above the target level. |
 
-## Dimension Definitions
+## Competency Definitions
 
-### 1. Problem Framing
+Calibrate scores against the candidate's target stage on the Career Mapper progression: E (Explorer), P (Practitioner), I (Integrator), A (Architect), S (Steward).
 
-What to look for:
-- Does the candidate articulate the user problem before showing solutions?
-- Is there business context (metrics, goals, constraints, stakeholder needs)?
-- Does the framing distinguish between symptoms and root causes?
-- Are assumptions identified and challenged?
-
-| Score | Junior (IC1-2) | Mid (IC3) | Senior (IC4) | Staff+ (IC5+) |
-|-------|----------------|-----------|---------------|----------------|
-| 4 | Articulates user problem with some supporting evidence | Separates user and business problems, cites research | Reframes the problem from what was initially given, challenges assumptions | Identifies strategic opportunity beyond the immediate brief |
-| 3 | States user problem clearly | Includes business context and user evidence | Shows how problem connects to broader product strategy | Connects to org-level goals and cross-team impact |
-| 2 | Problem is implied but not stated | Problem is stated but shallow ("users were confused") | Business context is missing or generic | Problem is framed tactically without strategic dimension |
-| 1 | Jumps directly to solutions | No problem framing at all | | |
-
-### 2. Process & Rigor
+### 1. Product & Strategic Impact
 
 What to look for:
-- Is there evidence of research, exploration, and iteration?
-- Are multiple directions explored before converging?
-- Is there evidence of testing or validation?
-- Is the process appropriate for the project scope and timeline?
-
-| Score | Junior | Mid | Senior | Staff+ |
-|-------|--------|-----|--------|--------|
-| 4 | Shows exploration and iteration with guidance | Multiple research methods, clear decision points | Self-directed process, adapts methods to context | Defines process for team, mentors others through it |
-| 3 | Shows some process beyond "I designed this" | Research → explore → test → iterate cycle visible | Process adapts to constraints (timeline, access, fidelity) | Process shows strategic prioritization |
-| 2 | Process is mentioned but not shown | Process is linear with no iteration evidence | Process seems performative or formulaic | |
-| 1 | No process visible — just final designs | | | |
-
-### 3. Craft Quality
-
-What to look for:
-- Is the visual design at the expected level for the seniority?
-- Are interactions well-considered (not just static screens)?
-- Is there attention to typography, spacing, color, and hierarchy?
-- Are design system patterns used consistently?
-
-| Score | Junior | Mid | Senior | Staff+ |
-|-------|--------|-----|--------|--------|
-| 4 | Surprising polish for the level — shows natural talent | Consistent, systematic craft with few errors | Craft serves the user goal, not just aesthetics | Craft decisions reflect strategic trade-offs |
-| 3 | Clean, competent execution | Consistent visual system applied across screens | Multiple states shown (empty, error, loading) | Craft is a tool for communication, not the focus |
-| 2 | Rough execution, some visual inconsistencies | Inconsistent spacing, typography, or component usage | Only "happy path" shown — no states | |
-| 1 | Below entry-level quality | | | |
-
-### 4. Systems Thinking
-
-What to look for:
-- Are edge cases and error states considered?
-- Is responsive behavior addressed?
-- Does the candidate think about the design system implications?
-- Are flows complete (not just key screens)?
-
-| Score | Junior | Mid | Senior | Staff+ |
-|-------|--------|-----|--------|--------|
-| 4 | Shows awareness of states beyond happy path | Documents edge cases and responsive behavior | Considers system-level implications (design system, platform, accessibility) | Designs at the system level — components, patterns, governance |
-| 3 | Shows 2-3 states per key screen | Error and empty states documented for most flows | Responsive breakpoints addressed | Cross-team system impact considered |
-| 2 | Only happy-path screens shown | Edge cases acknowledged but not designed | Responsive is afterthought | |
-| 1 | No evidence of thinking beyond the main screen | | | |
-
-### 5. Outcomes & Impact
-
-What to look for:
-- Are results shared (metrics, user feedback, adoption data)?
+- Does the candidate articulate the user problem and business context before showing solutions?
+- Is design work connected to roadmap, metrics, or strategic bets?
+- Are results shared (metrics, adoption, user feedback) and tied back to framing?
 - Is the candidate's specific contribution clear vs. team effort?
-- Are outcomes connected back to the problem framing?
-- Is there evidence the design actually shipped?
+- Does the candidate show awareness of where AI augments or automates the workflow?
 
-| Score | Junior | Mid | Senior | Staff+ |
-|-------|--------|-----|--------|--------|
-| 4 | Any metric or outcome is impressive at this level | Clear metrics tied to goals, post-launch learnings | Quantified impact + qualitative evidence + learnings | Org-level impact, influenced product strategy |
-| 3 | "This shipped" with some context | Before/after comparison with some measurement | Metrics shown and contextualized | Cross-team outcomes documented |
-| 2 | "We shipped it" with no context or evidence | Outcome mentioned but vague ("it improved the experience") | Metrics seem cherry-picked or lack context | |
-| 1 | No outcomes, no evidence of shipping | | | |
+| Score | E (Explorer) | P (Practitioner) | I (Integrator) | A (Architect) | S (Steward) |
+|-------|--------------|------------------|----------------|---------------|-------------|
+| 4 | Articulates user problem with supporting evidence and some outcome signal | Connects design to team metrics with clear business context | Reframes the problem and shapes roadmap decisions within domain | Defines multi-team product bets; strategic opportunity beyond brief | Influences company-level strategy and long-term portfolio |
+| 3 | States user problem clearly; understands roadmap context | Includes business context, user evidence, and some outcomes | Shows how problem connects to broader product strategy with quantified impact | Connects to org-level goals with cross-team outcomes | Cross-portfolio impact documented |
+| 2 | Problem is implied but not stated; no outcomes | Problem stated but shallow; outcomes vague | Business context generic; metrics cherry-picked | Framed tactically without strategic dimension | |
+| 1 | Jumps directly to solutions; no problem framing or outcomes | | | | |
 
-### 6. Communication
-
-What to look for:
-- Is the case study well-structured and easy to follow?
-- Is the narrative concise (not padded)?
-- Are visuals used effectively to support the story?
-- Does the candidate show ability to frame and present work?
-
-| Score | Junior | Mid | Senior | Staff+ |
-|-------|--------|-----|--------|--------|
-| 4 | Clear, engaging narrative that holds attention | Structured with clear sections, good pacing | Tailors depth to audience, knows what to skip | Could be a conference talk — strategic, compelling |
-| 3 | Logical structure, easy to follow | Good balance of text and visuals | Concise — no filler | |
-| 2 | Structure is confusing or hard to follow | Walls of text or unexplained screenshots | Too long or too short for the content | |
-| 1 | Unreadable or incomprehensible structure | | | |
-
-### 7. Collaboration
+### 2. Craft & Experience Quality
 
 What to look for:
-- Is there evidence of working with cross-functional partners?
-- Does the candidate describe how they influenced decisions?
-- Is there evidence of giving or receiving design feedback?
-- Are stakeholder dynamics addressed?
+- Is the visual and interaction design at the expected level for the seniority?
+- Is there attention to typography, spacing, color, hierarchy, and motion?
+- Are design system patterns used and contributed to consistently?
+- Are prototypes or artifacts used effectively to communicate intent?
+- For AI surfaces: are uncertainty, trust, and override patterns considered?
 
-| Score | Junior | Mid | Senior | Staff+ |
-|-------|--------|-----|--------|--------|
-| 4 | Shows learning from collaboration | Describes specific cross-functional dynamics | Led alignment across functions, resolved conflicts | Influenced product/eng/design org processes |
-| 3 | Mentions team members and their roles | Explains how design decisions involved others | Shows stakeholder management | Cross-team influence documented |
-| 2 | "I worked with a team" with no specifics | Collaboration mentioned but not illustrated | | |
-| 1 | No mention of anyone else — reads as solo work | | | |
+| Score | E | P | I | A | S |
+|-------|---|---|---|---|---|
+| 4 | Surprising polish — natural talent | Consistent, systematic craft with few errors | Craft serves the user goal, not just aesthetics; integrates across complex flows | Builds reusable systems and patterns others adopt; trade-offs reflect strategy | Defines org-wide standards for experience quality |
+| 3 | Clean, competent execution of fundamentals | Consistent visual system applied across screens; states shown | Multiple states + AI trust/uncertainty patterns considered | Craft is a tool for communication; system contributions evident | |
+| 2 | Rough execution, visual inconsistencies | Inconsistent spacing, typography, or component usage | Only "happy path" shown; AI surfaces lack trust signals | | |
+| 1 | Below entry-level quality | | | | |
+
+### 3. Customer-Centric Research & Insight
+
+What to look for:
+- Is there evidence of research, exploration, and iteration appropriate to scope?
+- Are multiple directions explored before converging?
+- Is there evidence of testing, validation, or post-launch monitoring?
+- Are assumptions identified, challenged, and grounded in evidence?
+- Are research methods adapted to constraints (timeline, access, fidelity)?
+
+| Score | E | P | I | A | S |
+|-------|---|---|---|---|---|
+| 4 | Shows exploration and iteration with guidance | Multiple research methods, clear decision points | Embeds research continuously; adapts methods to context | Defines research frameworks and quality standards | Establishes org-level research rigor and customer bar |
+| 3 | Shows some process beyond "I designed this" | Research → explore → test → iterate cycle visible | Process adapts to constraints (timeline, access, fidelity) | Process shows strategic prioritization across teams | |
+| 2 | Process mentioned but not shown | Linear process with no iteration evidence | Process performative or formulaic | | |
+| 1 | No process visible — just final designs | | | | |
+
+### 4. Systems & Platform Thinking
+
+What to look for:
+- Are edge cases, error states, empty states, and loading states considered?
+- Is responsive behavior or cross-platform impact addressed?
+- Does the candidate think about design system and platform implications?
+- Are flows complete across the journey, not just key screens?
+- For AI: are human-in-the-loop boundaries and reusable patterns considered?
+
+| Score | E | P | I | A | S |
+|-------|---|---|---|---|---|
+| 4 | Awareness of states beyond happy path | Documents edge cases and responsive behavior across flows | Considers system-level implications (design system, platform, accessibility, AI patterns) | Defines scalable frameworks, taxonomy, and platform patterns | Shapes long-term platform architecture and cohesion |
+| 3 | Shows 2-3 states per key screen | Error and empty states documented for most flows | Responsive + human-in-the-loop boundaries addressed | Cross-team system impact considered | |
+| 2 | Only happy-path screens | Edge cases acknowledged but not designed | Responsive an afterthought; no AI boundary thinking | | |
+| 1 | No evidence of thinking beyond main screen | | | | |
+
+### 5. AI Fluency & Automation Leverage
+
+What to look for:
+- Does the candidate show evidence of AI in their workflow (research, exploration, production)?
+- Are prompts, evaluation habits, or QA patterns repeatable rather than ad hoc?
+- Does the candidate articulate where AI helps vs. where human judgment is required?
+- For senior+ levels: are there reusable workflows, frameworks, or standards others can adopt?
+
+Important principle: depth of maturity at a given level matters more than racing to higher automation.
+
+| Score | E | P | I | A | S |
+|-------|---|---|---|---|---|
+| 4 | Experiments with AI tools (L1–L2) and reflects on outputs | Uses AI consistently with repeatable prompts and QA habits | Integrates AI into workflows with clear responsibility boundaries | Builds reusable AI workflows, prompts, and evaluation systems others adopt | Sets standards, governance, and quality bar for AI usage across the org |
+| 3 | Shows AI use with heavy manual correction acknowledged | Repeatable prompts and basic evaluation habits | Articulates where AI assists vs. where human judgment is required | Defines integration and QA standards for AI-generated outputs | |
+| 2 | AI mentioned but use is ad hoc or unreflected | AI usage inconsistent; no QA habit | No reusable patterns at a level that expects them | | |
+| 1 | No evidence of AI in workflow or product thinking | | | | |
+
+### 6. Ownership, Leadership & Collaboration
+
+What to look for:
+- Is there evidence of working with and influencing cross-functional partners?
+- Does the candidate describe how they shaped decisions or resolved conflicts?
+- Is the narrative well-structured, concise, and tailored to the audience?
+- Is there evidence of giving feedback, mentoring, or elevating others?
+- Are stakeholder dynamics and trade-offs addressed honestly?
+
+| Score | E | P | I | A | S |
+|-------|---|---|---|---|---|
+| 4 | Owns tasks; shows learning from collaboration; clear narrative | Owns projects and influences partners; structured, engaging narrative | Leads initiatives, mentors peers, manages stakeholders; tailored communication | Leads strategic programs and elevates team capability; cross-team influence documented | Defines cultural norms and leadership standards |
+| 3 | Mentions team members and their roles; logical structure | Explains how decisions involved others; good pacing | Shows stakeholder management; concise — no filler | Cross-team influence documented | |
+| 2 | "I worked with a team" without specifics; structure confusing | Collaboration mentioned but not illustrated; walls of text | | | |
+| 1 | No mention of others — reads as solo work; unreadable structure | | | | |
 
 ## Bias Awareness Checklist
 
@@ -127,3 +123,4 @@ Before finalizing the review, check for these biases:
 - **Visual style bias:** Don't penalize or reward aesthetic preferences (dark mode, illustration style, color palette). Evaluate whether craft serves the user goal.
 - **Familiarity bias:** Don't over-reward work in your domain or under-reward unfamiliar domains. Evaluate the transferable design thinking.
 - **Quantity bias:** 3 strong case studies beats 8 weak ones. Evaluate depth, not volume.
+- **AI maturity bias:** Heavy AI tool usage is not the same as AI fluency. Depth of judgment at a given level matters more than racing toward higher automation.

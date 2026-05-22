@@ -17,7 +17,7 @@ Output is formatted for use in debrief documents, ATS scorecards, or structured 
 
 1. Establish the evaluation context.
    - Identify the role: product designer, UX designer, visual designer, design lead, etc.
-   - Identify the target level: junior (IC1-2), mid (IC3), senior (IC4), staff (IC5), principal (IC6+).
+   - Identify the target level: Explorer (E), Practitioner (P), Integrator (I), Architect (A), Steward (S).
    - Capture must-have skills and nice-to-have skills from the job description or hiring manager.
    - Note the team context: B2B/B2C, 0→1/growth/scale, platform/consumer, industry.
    - Identify what the screen was intended to assess (role fit, design thinking, leadership, culture).

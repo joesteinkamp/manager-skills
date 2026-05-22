@@ -4,7 +4,7 @@ Reference library of follow-up questions to recommend after a hiring manager scr
 
 Always customize to the specific screen — never recommend generic questions when a specific one targets the gap.
 
-## Probing Unassessed Problem Framing
+## Probing Unassessed Product & Strategic Impact
 
 - "In the design exercise, we'd like to see how you approach an ambiguous problem. Before jumping into solutions, walk us through how you'd frame the problem."
   - Assign to: Design exercise
@@ -13,7 +13,7 @@ Always customize to the specific screen — never recommend generic questions wh
   - Assign to: Portfolio review
   - Strong signal: Describes specific evidence that shifted the framing, shows intellectual humility.
 
-## Probing Unassessed Process & Rigor
+## Probing Unassessed Customer-Centric Research & Insight
 
 - "Walk us through 2-3 directions you explored before landing on this approach. Why did you discard the others?"
   - Assign to: Portfolio review
@@ -22,7 +22,7 @@ Always customize to the specific screen — never recommend generic questions wh
   - Assign to: Design exercise
   - Strong signal: Deliberate time allocation, prioritizes understanding before producing.
 
-## Probing Unassessed Craft Quality
+## Probing Unassessed Craft & Experience Quality
 
 - "Walk us through the interaction details of [specific component from portfolio]. What happens on error, loading, and empty states?"
   - Assign to: Portfolio review
@@ -31,7 +31,7 @@ Always customize to the specific screen — never recommend generic questions wh
   - Assign to: Design exercise
   - Strong signal: Systematic approach to UI decisions, not just aesthetic preferences.
 
-## Probing Unassessed Systems Thinking
+## Probing Unassessed Systems & Platform Thinking
 
 - "How does this feature behave at scale? What happens with 0 items, 1000 items, or when the user has no permissions?"
   - Assign to: Portfolio review or design exercise
@@ -40,7 +40,7 @@ Always customize to the specific screen — never recommend generic questions wh
   - Assign to: Design exercise
   - Strong signal: Thinks beyond the immediate screen to the broader system.
 
-## Probing Unassessed Collaboration
+## Probing Unassessed Ownership, Leadership & Collaboration
 
 - "Tell me about a time you disagreed with your PM or engineer on a design direction. What happened?"
   - Assign to: Cross-functional interview
@@ -49,7 +49,7 @@ Always customize to the specific screen — never recommend generic questions wh
   - Assign to: Cross-functional interview
   - Strong signal: Structured approach, actionable feedback, creates psychological safety.
 
-## Probing Unassessed Outcomes & Impact
+## Probing Outcomes & Impact (within Product & Strategic Impact)
 
 - "For the project you discussed in the screen, what happened after launch? How did you measure success?"
   - Assign to: Portfolio review
@@ -57,6 +57,18 @@ Always customize to the specific screen — never recommend generic questions wh
 - "How do you decide what to measure? Walk me through how you'd set up success metrics for a feature you've designed."
   - Assign to: Design exercise or cross-functional interview
   - Strong signal: Connects metrics to user and business goals, considers leading and lagging indicators.
+
+## Probing Unassessed AI Fluency & Automation Leverage
+
+- "Walk us through where AI shows up in your current design workflow — research, exploration, production, or QA. What's repeatable vs. ad hoc?"
+  - Assign to: Portfolio review or cross-functional interview
+  - Strong signal: Specific tools and prompts, repeatable patterns, clear judgment about where AI helps vs. where human review is required.
+- "Show us a feature you've designed that exposes AI to end users. How did you handle uncertainty, trust, and override?"
+  - Assign to: Portfolio review
+  - Strong signal: Considers confidence signals, traceability, human-in-the-loop boundaries, and failure modes — not just the happy path.
+- "In the exercise, we may ask you to use AI as part of your process. Talk us through how you'd evaluate the quality of an AI-generated output before acting on it."
+  - Assign to: Design exercise
+  - Strong signal: Articulates an evaluation habit, distinguishes plausible-but-wrong outputs, avoids over-reliance.
 
 ## Probing Screen Concerns
 
@@ -72,10 +84,10 @@ Always customize to the specific screen — never recommend generic questions wh
 
 ### Concern: Candidate's level seems misaligned
 - "Tell me about a time you influenced the team's approach to a problem — not just the design, but the way the team worked."
-  - Assign to: Cross-functional interview (for senior+ candidates)
-  - Why: Senior+ candidates should show influence beyond their own craft.
+  - Assign to: Cross-functional interview (for Integrator/Architect/Steward candidates)
+  - Why: I/A/S candidates should show influence beyond their own craft.
 - "Walk me through how you'd approach this problem if you were brand new to the team with no context."
-  - Assign to: Design exercise (for junior/mid candidates)
+  - Assign to: Design exercise (for Explorer/Practitioner candidates)
   - Why: Tests foundational thinking without relying on experience claims.
 
 ## Anti-Patterns: Questions to Avoid Recommending

@@ -6,7 +6,7 @@ Use this as the default response structure for `evaluate-hiring-manager-screen`.
 
 - Candidate:
 - Role: (product designer, UX designer, visual designer, design lead, etc.)
-- Target level: (junior / mid / senior / staff / principal)
+- Target level: (E Explorer / P Practitioner / I Integrator / A Architect / S Steward)
 - Team context: (B2B/B2C, 0→1/growth/scale, industry)
 - Must-have skills:
 - Screen format: (phone / video / in-person)
@@ -20,13 +20,12 @@ For each competency, record the signal gathered during the screen. Mark competen
 
 | Competency | Signal Level | Score (1-4) | Key Evidence |
 |------------|-------------|-------------|--------------|
-| Problem Framing | Strong / Partial / None / Concerning | | (cite candidate statement) |
-| Process & Rigor | | | |
-| Craft Quality | | | |
-| Systems Thinking | | | |
-| Outcomes & Impact | | | |
-| Communication | | | |
-| Collaboration | | | |
+| Product & Strategic Impact | Strong / Partial / None / Concerning | | (cite candidate statement) |
+| Craft & Experience Quality | | | |
+| Customer-Centric Research & Insight | | | |
+| Systems & Platform Thinking | | | |
+| AI Fluency & Automation Leverage | | | |
+| Ownership, Leadership & Collaboration | | | |
 
 **Competencies not assessed in this screen:**
 - (list with note on why — time, scope, format)
@@ -57,7 +56,7 @@ For each competency, record the signal gathered during the screen. Mark competen
 
 ## Level Calibration
 
-- **Demonstrated level:** (junior / mid / senior / staff — based on screen evidence)
+- **Demonstrated level:** (E / P / I / A / S — based on screen evidence)
 - **Target level:** (from screen context)
 - **Calibration:** (below / at / above target level)
 - **Evidence for calibration:**
@@ -111,7 +110,7 @@ For each competency, record the signal gathered during the screen. Mark competen
 ## Screen Summary
 
 - **Advance to next round:** (yes / no / conditional)
-- **One-line summary:** (e.g., "Strong problem framing and role motivation, but limited process signal — design exercise should test rigor")
+- **One-line summary:** (e.g., "Strong product & strategic impact and role motivation, but limited research signal — design exercise should test rigor")
 - **What the remaining loop must answer:**
   1. (open question)
   2. (open question)

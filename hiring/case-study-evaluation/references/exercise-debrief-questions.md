@@ -25,8 +25,8 @@ Use these questions to frame the debrief conversation. The goal is to distinguis
 
 ### Concern: Candidate rushed to solutions
 - "Did the candidate ask any clarifying questions before designing?"
-- "In the portfolio review or screen, did they show problem framing? This might be exercise anxiety, not a pattern."
-- **Resolution path:** Check portfolio review scores for Problem Framing. If consistent, it's a pattern. If inconsistent, weight portfolio evidence more heavily.
+- "In the portfolio review or screen, did they show strategic framing? This might be exercise anxiety, not a pattern."
+- **Resolution path:** Check portfolio review scores for Product & Strategic Impact. If consistent, it's a pattern. If inconsistent, weight portfolio evidence more heavily.
 
 ### Concern: Output quality was low
 - "Given the exercise format and time constraints, is this the quality we'd expect?"
@@ -45,13 +45,13 @@ Use these questions to frame the debrief conversation. The goal is to distinguis
 
 ### Concern: Candidate's level seems misaligned
 - "Which specific behaviors suggest a different level than the target?"
-- "Could the exercise format suppress senior behaviors? (e.g., strategic thinking is hard to show in a 45-minute whiteboard)"
+- "Could the exercise format suppress Integrator/Architect behaviors? (e.g., strategic thinking is hard to show in a 45-minute whiteboard)"
 - **Resolution path:** Compare against level expectations in the competency framework. Cross-reference with screen and portfolio signals.
 
 ### Concern: Candidate didn't collaborate well during the exercise
 - "How did the candidate treat the interviewers — as evaluators or as collaborators?"
 - "Did they invite input, or did they present a finished idea?"
-- **Resolution path:** Live exercises test real-time collaboration. If this is a concern, it's meaningful signal. Cross-reference with collaboration scores from other rounds.
+- **Resolution path:** Live exercises test real-time collaboration. If this is a concern, it's meaningful signal. Cross-reference with Ownership, Leadership & Collaboration scores from other rounds.
 
 ## Signal Strength Guide
 
@@ -59,11 +59,11 @@ Use this to calibrate how much to weight exercise signal in the overall hiring d
 
 | Exercise Format | Time | Signal Strength | Best For | Limited For |
 |----------------|------|-----------------|----------|-------------|
-| Take-home presentation | 3-7 days | High for craft, process, communication | Evaluating depth of thinking and polish | Real-time collaboration, time pressure response |
-| Live whiteboard | 30-60 min | High for thinking, problem framing | Evaluating approach and reasoning under pressure | Craft quality, polish, detailed systems thinking |
-| Live Figma | 45-90 min | High for craft, systems thinking | Evaluating execution speed and design decisions | Strategic thinking, problem framing depth |
-| Design critique | 30-45 min | High for communication, collaboration | Evaluating feedback quality and design taste | Individual craft, process, outcomes |
-| System design | 45-60 min | High for systems thinking, problem framing | Evaluating architectural thinking | Visual craft, detailed interaction design |
+| Take-home presentation | 3-7 days | High for craft, research rigor, collaboration narrative | Evaluating depth of thinking and polish; AI fluency in workflow | Real-time collaboration, time pressure response |
+| Live whiteboard | 30-60 min | High for thinking, strategic framing | Evaluating approach and reasoning under pressure | Craft quality, polish, detailed systems thinking |
+| Live Figma | 45-90 min | High for craft, systems & platform thinking | Evaluating execution speed and design decisions; AI fluency in tooling | Strategic framing depth |
+| Design critique | 30-45 min | High for ownership, leadership & collaboration | Evaluating feedback quality and design taste | Individual craft, research rigor, outcomes |
+| System design | 45-60 min | High for systems & platform thinking, strategic framing | Evaluating architectural thinking | Visual craft, detailed interaction design |
 
 ## Anti-Patterns: Debrief Mistakes to Avoid
 
