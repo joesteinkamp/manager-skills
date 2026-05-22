@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkedIn Profile Evaluation"
+  short_description: "Evaluate a LinkedIn profile for design engineer fit"
+  default_prompt: "Use $linkedin-profile-evaluation to evaluate a candidate's pasted LinkedIn profile for a design engineer role — a signal check, a responsibilities match, and a simple fit verdict."
