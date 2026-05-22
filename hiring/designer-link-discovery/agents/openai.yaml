@@ -1,0 +1,4 @@
+interface:
+  display_name: "Designer Link Discovery"
+  short_description: "Find a designer's portfolio and online profiles from their LinkedIn"
+  default_prompt: "Use $designer-link-discovery to find and verify all professional online links connected to a designer's LinkedIn profile — portfolio, Dribbble, Behance, Medium, X, GitHub, and more — as an annotated, confidence-rated inventory."
