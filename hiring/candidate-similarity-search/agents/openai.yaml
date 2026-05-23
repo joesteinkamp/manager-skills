@@ -1,0 +1,4 @@
+interface:
+  display_name: "Candidate Similarity Search"
+  short_description: "Find candidates similar to a seed LinkedIn profile"
+  default_prompt: "Use $candidate-similarity-search to extract keywords and attributes from a seed LinkedIn profile and find other candidates with similar attributes — returns an attribute breakdown, a search playbook of queries/URLs, and any candidates surfaced while running searches."
