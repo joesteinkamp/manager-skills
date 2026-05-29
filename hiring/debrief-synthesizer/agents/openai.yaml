@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debrief Synthesizer"
+  short_description: "Synthesize hiring loop scorecards with dissent surfaced"
+  default_prompt: "Use $debrief-synthesizer to roll up per-round scorecards from a design hiring loop into a hire/no-hire (or mid-loop continue/kill/probe-gap) recommendation, with rating dissent named and calibrated to the target Career Mapper level."
