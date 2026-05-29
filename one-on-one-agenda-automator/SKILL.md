@@ -37,16 +37,18 @@ Output is formatted for use in Notion, Google Docs, Fellow, Lattice, or 15Five. 
 
 3. Select agenda blocks.
 - Use the block library from `references/agenda-block-library.md` to assemble the agenda.
-- Default weekly check-in structure (30 minutes):
+- Default meeting length is **30–45 minutes**. If the manager hasn't specified, assume 30–45 and note the assumption in 1:1 Context.
+- Default weekly check-in structure (30–45 minutes):
   - **Check-in (3 min):** Energy/mood, anything top of mind.
-  - **Report's topics (10 min):** Their priorities — always first.
-  - **Manager's topics (10 min):** Feedback, alignment, context sharing.
+  - **Report's topics (10–15 min):** Their priorities — always first.
+  - **Manager's topics (10–15 min):** Feedback, alignment, context sharing.
   - **Growth & development (5 min):** One skill or goal to discuss.
   - **Action items (2 min):** Capture commitments with owners and dates.
 - Adjust blocks based on 1:1 type — career conversations get more growth time, performance discussions get structured feedback time.
 
 4. Generate discussion prompts from scanned context.
-- Write 2-3 specific, open-ended prompts per agenda block.
+- **Selectivity rule:** Write **1 prompt per topic block** (Report's topics, Manager's topics) by default. Add a 2nd only if both fit comfortably in the block's time. Check-in and Growth blocks may have 1–2 prompts.
+- Rank the Notion scan's high-signal items using the priority order in `references/notion-scanning-guide.md`. The top-ranked item becomes the prompt; the next 1–3 items go to the **Parking Lot**; remaining context goes to **Manager Prep Notes**. Never bloat the agenda to "cover" every signal — the agenda is a forcing function, not a checklist.
 - Prompts must reference specific items from the Notion scan — not generic questions.
 - For each scanned item that warrants discussion, generate a contextual prompt:
   - **Active project with status change:** "The [project] moved from 'on track' to 'at risk' on [date] — what changed, and what do you need to get it back on track?"
@@ -91,7 +93,10 @@ Always return sections in this order:
 ## Quality Bar
 
 Revise before finalizing if any of these are true:
-- Notion scan was available but discussion prompts do not reference any specific scanned items — every agenda with Notion access must include at least 3 prompts derived from scanned activity.
+- Topic blocks (Report's topics / Manager's topics) contain more than 2 prompts each — default is 1, max is 2.
+- The Notion scan returned 5+ high-signal items but the Parking Lot and Manager Prep Notes do not visibly route the surplus — every signal that didn't become a prompt should appear in one of those sections.
+- Meeting duration is assumed silently — default to 30–45 min and flag the assumption in 1:1 Context if the manager hasn't specified.
+- Notion scan was available but discussion prompts do not reference any specific scanned items — every agenda with Notion access must reference scanned activity in at least one prompt per topic block.
 - Discussion prompts are generic ("How's it going?", "Any blockers?") instead of contextual ("The Dashboard v2 spec moved to 'at risk' on Tuesday — what changed?").
 - Report's topics are not listed first — the report's priorities always come before the manager's.
 - Agenda time allocations do not sum to the meeting duration (±2 minutes for buffer).

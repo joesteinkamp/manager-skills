@@ -86,6 +86,16 @@ When multiple signals are detected, prioritize them for the agenda in this order
 7. **Unresolved discussions** — open comment threads, parking lot items
 8. **High-activity pages** — pages with unusual volume of edits or comments
 
+## Routing Scanned Signals into the Agenda
+
+Ranking signals is only useful if surplus signals are routed somewhere. Use this map every time:
+
+- **Top 1–2 signals** → become **discussion prompts** (one per topic block, default).
+- **Next 1–3 signals** → go to the **Parking Lot** in the output (visible to the manager, deferred to async or next 1:1).
+- **Remaining context** → go to **Manager Prep Notes** as observations the manager can decide what to do with (Slack mention, next 1:1, drop entirely).
+
+**Guardrail:** Never exceed **2 prompts in Report's topics** or **2 prompts in Manager's topics**, even if the scan returns 10 high-signal items. If you find yourself writing a 3rd prompt for either block, the next item is parking-lot material.
+
 ## Prompt Generation Rules
 
 For each high-signal item, generate a discussion prompt following these rules:
