@@ -8,7 +8,7 @@ Status legend: `idea` (captured, not designed) Â· `spec` (designed, not built) Â
 
 ## debrief-synthesizer
 
-**Status:** idea
+**Status:** built (`hiring/debrief-synthesizer/`)
 
 **One-line description:** Convert per-interviewer scorecards and notes from a hiring loop into a hire/no-hire recommendation with dissenting views surfaced.
 
