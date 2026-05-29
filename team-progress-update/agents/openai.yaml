@@ -1,0 +1,4 @@
+interface:
+  display_name: "Team Progress Update"
+  short_description: "Compose weekly team digests and exec readouts from a shared scan"
+  default_prompt: "Use $team-progress-update to compose an audience-aware team progress update — either a weekly team digest or an exec readout — built from a scan of Notion, project trackers, and `$report-objective-tracker` output."
