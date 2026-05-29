@@ -2,6 +2,20 @@
 
 Modular blocks for assembling 1:1 agendas. Mix and match based on the 1:1 type and current context.
 
+> **The prompts in every block are a menu, not a script.** Pick **one** prompt per block by default — two only if both fit comfortably in the block's time. The unused prompts stay unused for this 1:1; they're optionality, not output.
+
+## Selectivity Rule
+
+The Notion scan often surfaces 5+ high-signal items in a single week. The temptation is to turn each one into a prompt. Don't — a 10-minute block fits one well-explored topic, not three rushed ones.
+
+**Default:** 1 prompt per topic block (Report's topics, Manager's topics). 1–2 prompts allowed for check-in and growth.
+
+**How to choose when signals compete:**
+
+*Example A — competing in Manager's topics:* The scan surfaces (1) a status regression on a critical project, (2) a recently completed win worth recognizing, and (3) an upcoming deadline. Pick the **status regression** as the prompt (highest priority per the scanning guide). Recognition moves to **Manager Prep Notes** as the opener. The upcoming deadline moves to **Parking Lot** for next week, unless it's <3 days away.
+
+*Example B — competing in Report's topics:* The scan surfaces (1) two overdue tasks, (2) an unresolved comment thread with a PM, and (3) a blocked item. Pick the **blocked item** (blockers outrank overdue). The overdue tasks and PM thread go to **Parking Lot**; the manager can choose to raise one async via Slack instead.
+
 ## Check-In Blocks
 
 ### Energy Pulse

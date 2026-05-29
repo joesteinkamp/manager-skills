@@ -67,21 +67,21 @@ Overdue/carried items to address:
 
 ## Discussion Prompts
 
+> Default: **1 prompt per topic block.** Surplus high-signal items belong in Parking Lot or Manager Prep Notes, not here.
+
 ### Check-in
-- Prompt 1:
-- Prompt 2:
+- Prompt:
+- (optional) Prompt 2:
 
 ### Report's Topics
-- Prompt 1: (contextual to their current work)
-- Prompt 2:
+- Prompt: (contextual to their current work — highest-ranked scanned signal)
 
 ### Manager's Topics
-- Prompt 1: (specific feedback or alignment topic)
-- Prompt 2:
+- Prompt: (specific feedback or alignment topic — highest-ranked scanned signal)
 
 ### Growth & Development
-- Prompt 1: (tied to their career goals)
-- Prompt 2:
+- Prompt: (tied to their career goals)
+- (optional) Prompt 2:
 
 ## Manager Prep Notes
 
@@ -172,25 +172,28 @@ Below is a concrete example of a completed weekly check-in agenda. Use as a qual
 
 **Check-in:**
 - "You mentioned feeling stretched in standup last week. Looking at your Notion board, you completed 2 items and have 2 overdue — how's your energy this week on a 1-10?"
-- "Checkout shipped and the error state audit is done — are you feeling closure on that project, or is there loose thread?"
 
 **Sarah's Topics:**
-- "The PM left 2 comments on the Dashboard v2 Research Brief about scope — have you had a chance to respond? Do you need to align with them before the persona work progresses?" *(from Notion scan: shared page with unresolved comments)*
-- "The competitive analysis moved to 'at risk' on Tuesday — what changed? Is this a time issue, access issue, or scope issue?" *(from Notion scan: status regression)*
+- "The competitive analysis moved to 'at risk' on Tuesday — what changed? Is this a time issue, access issue, or scope issue?" *(from Notion scan: status regression — highest-priority signal)*
 
 **Jordan's Topics:**
-- "I want to recognize the interview synthesis you completed this week — getting that done while closing out checkout shows strong project juggling. That's a senior-level skill." *(from Notion scan: completed item)*
-- "The Q1 retro write-up is 7 days overdue. Should we deprioritize it given Dashboard v2, set a new deadline, or timebox it to 30 minutes this week?" *(from Notion scan: overdue item)*
-- "I updated the Q2 OKRs page on Sunday — I want to walk you through what changed so you have context for your Dashboard v2 planning." *(from Notion scan: shared page Sarah hasn't viewed)*
+- "The Q1 retro write-up is 7 days overdue. Should we deprioritize it given Dashboard v2, set a new deadline, or timebox it to 30 minutes this week?" *(from Notion scan: overdue item — most actionable in 10 min)*
 
 **Growth & Development:**
 - "The stakeholder presentation dry-run is coming up April 1. That's your growth objective this quarter. How are you thinking about preparing? Do you want to do a practice run with me beforehand?"
 
 ### Manager Prep Notes
 
-- **Recognition to deliver:** Interview synthesis completion — shipped while finishing checkout, demonstrates growing ability to manage parallel workstreams (senior-level signal).
+- **Recognition to deliver (open with this, not as a prompt):** Interview synthesis completion — shipped while finishing checkout, demonstrates growing ability to manage parallel workstreams (senior-level signal).
 - **Observation to discuss:** Sarah has 2 overdue items and mentioned feeling stretched. This is a coaching moment about workload advocacy and saying no — not a problem to solve for her. Ask her what she'd deprioritize.
-- **Notion signals to surface:** PM's unresolved scope questions on research brief could block persona work. Ensure Sarah resolves this before end of week.
+- **Async-routable signal:** PM's unresolved scope questions on research brief could block persona work. Slack Sarah a nudge after the 1:1 rather than spending in-meeting time on it.
 - **Upcoming events:** Persona cards due Mar 28 (3 days). Stakeholder dry-run Apr 1 (7 days). Mid-year review cycle opens April 1.
 - **Weeks since last career conversation:** 2 — on track (aim for every 3-4 weeks).
 - **Energy/mood trend:** Dipped last week (standup comment) + 2 overdue items. Monitor closely.
+
+### Action Items & Follow-Up
+
+**Parking lot** (high-signal items routed off the agenda — handle async or in next 1:1):
+- PM scope questions on Dashboard v2 Research Brief — Sarah to resolve before persona work; Jordan to nudge via Slack if not closed by Wed.
+- Q2 OKRs page Sarah hasn't viewed — Jordan to share context in Slack or schedule a 15-min walkthrough.
+- Stakeholder dry-run prep (Apr 1) — surface in next week's 1:1 as the primary growth topic.

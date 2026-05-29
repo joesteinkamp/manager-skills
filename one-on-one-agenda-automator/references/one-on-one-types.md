@@ -2,16 +2,18 @@
 
 Reference for the canonical 1:1 types and their default structures. Use this to select the right agenda format.
 
+> **Selectivity rule for every 1:1 type:** Pick 1–2 prompts per block from the library. The agenda is a forcing function, not a checklist — surplus signals belong in the Parking Lot or Manager Prep Notes.
+
 ## Weekly Check-In (Default)
 
-**Duration:** 25-30 minutes
+**Duration:** 30-45 minutes
 **Cadence:** Weekly
 **Purpose:** Maintain connection, unblock, give/receive lightweight feedback, keep career goals alive.
 
 **Default structure:**
 1. Check-in (3 min) — energy, mood, top of mind
-2. Report's topics (10 min) — their priorities first, always
-3. Manager's topics (10 min) — feedback, alignment, context sharing
+2. Report's topics (10-15 min) — their priorities first, always
+3. Manager's topics (10-15 min) — feedback, alignment, context sharing
 4. Growth & development (5 min) — one skill, goal, or learning
 5. Action items (2 min) — commitments with owners and dates
 
